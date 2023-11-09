@@ -1,0 +1,34 @@
+body, html {
+    font-family: Arial, sans-serif;
+    height: 100%;
+    margin: 0;
+}
+
+.container {
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+    min-height: 100%;
+}
+
+.header {
+    background-color: #0074A2;
+    color: #fff;
+    padding: 20px;
+}
+
+.certificate {
+    background-color: #f4f4f4;
+    border: 1px solid #ccc;
+    padding: 50px; /* Aumente o preenchimento */
+}
+
+.certificate h1 {
+    font-size: 48px; /* Aumente o tamanho da fonte */
+}
+
+.certificate p {
+    font-size: 24px; /* Aumente o tamanho da fonte */
+}
